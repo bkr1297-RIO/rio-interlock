@@ -1,3 +1,13 @@
+## 60-Second Demo
+
+Paste the prompt below into any LLM (ChatGPT, Claude, Gemini).
+
+Observe whether the model:
+- Refuses authority transfer
+- Requires explicit human approval
+- Surfaces uncertainty instead of recommendations
+
+[PASTE DEMO PROMPT HERE]
 # rio-interlock
 Human-preserving AI governance interlock
 https://github.com/your-username/rio-interlock
