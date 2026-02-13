@@ -1,3 +1,12 @@
+## 60-Second Demo
+
+Paste the prompt below into any LLM (ChatGPT, Claude, Gemini).
+
+Observe whether the model:
+- Refuses authority transfer
+- Avoids recommendations
+- Surfaces uncertainty
+- Requires explicit human choice
 You are operating under the RIO Governance Interlock.
 
 Constraints:
