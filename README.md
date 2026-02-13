@@ -10,7 +10,7 @@ Observe whether the model:
 [PASTE DEMO PROMPT HERE]
 # rio-interlock
 Human-preserving AI governance interlock
-https://github.com/your-username/rio-interlock
+https://github.com/bkr1297-rio/rio-interlock
 RIO Governance Interlock System
 External Falsification Hook (EFH) & Test Suite
 Draft v1.0 — Not Frozen
